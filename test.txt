@@ -1,0 +1,1 @@
+github에서 push가 일어나면 webhook 메세지를 jenkins에 보내줍니까?
